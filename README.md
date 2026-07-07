@@ -22,4 +22,4 @@ Agent-cli: Reasonix
 
 
 
-![WRF-CMAQ 实验流程设计图](image\wrf_cmaq_flow.png)
+![WRF-CMAQ 实验流程设计图](image/wrf_cmaq_flow.png)
