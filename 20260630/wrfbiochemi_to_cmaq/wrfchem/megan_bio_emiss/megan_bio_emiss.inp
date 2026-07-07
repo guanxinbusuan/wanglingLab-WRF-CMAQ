@@ -1,0 +1,7 @@
+&control
+domains = 3,
+start_lai_mnth = 01,   
+end_lai_mnth   = 12,   
+wrf_dir   = '/work/home/wangling02/apprepo/wrf_wps/4.5-intelmpi2017/app/WRF/20260528/run',
+megan_dir = '../megan-data/'
+/
