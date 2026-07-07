@@ -18,7 +18,9 @@ Agent-cli: Reasonix
 3. 从d02输出嵌套热启动d03模拟
 3.1 更新人为/植物源排放清单文件的制作逻辑与算法 `daymixtocmaq` 的 v3 版本 + `wrfbiochemi_to_b3grd` 的 v2 版本
 
-> Update-Time: 2026-07-07 12:00 
+
+> Last-Update-Time: 2026-07-07 12:00 
+
 
 
 ![WRF-CMAQ 实验流程设计图](image/wrf_cmaq_flow.png)
