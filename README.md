@@ -19,8 +19,17 @@ Agent-cli: Reasonix
 3.1 更新人为/植物源排放清单文件的制作逻辑与算法 `daymixtocmaq` 的 v3 版本 + `wrfbiochemi_to_b3grd` 的 v2 版本
 
 
-> Last-Update-Time: 2026-07-07 12:00 
-
-
+## 流程设计图
 
 ![WRF-CMAQ 实验流程设计图](image/wrf_cmaq_flow.png)
+
+
+
+
+- TODO List:
+    1. 尝试开启海盐排放;
+    2. 尝试开启过程分析PA;
+    3. 在d03区域尝试开启点源（CMAQ体系中叫高架源）排放的相关模拟.
+
+
+> Last-Update-Time: 2026-07-09 05:00 
