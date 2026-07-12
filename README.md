@@ -43,12 +43,24 @@ Agent-cli: Reasonix v1.17.10
     2. 在d03区域尝试开启点源（高架源）排放的相关模拟;OK,这个尝试也基本破产:
        - 除了Pluem-in-Grid 的次网格羽流模拟需要额外高架属性文件以外，普通的默认网格化点源其实就是`daymixtocmaq`的高度轮廓系数分配罢了(用于替代SMOKE的Elevpoint模块计算)。
 
-    
-    3. 尝试开启过程分析PA，这个似乎可以尝试一下，但是好像太过繁琐，我**懒得折腾**了....
-        - 参考链接：
-         [关于CMAQ的流程分析和预算](https://github.com/USEPA/CMAQ/blob/main/DOCS/Users_Guide/CMAQ_UG_ch09_process_analysis.md)
+
 
 - END 
 
 
-> Last-Update-Time: 2026-07-12 08:00 
+
+
+- TODO:
+
+
+    1. 尝试开启过程分析PA，这个似乎可以尝试一下，**有时间折腾一下**....
+        - 参考链接：
+         [关于CMAQ的流程分析和预算](https://github.com/USEPA/CMAQ/blob/main/DOCS/Users_Guide/CMAQ_UG_ch09_process_analysis.md)
+
+
+
+
+
+
+
+> Last-Update-Time: 2026-07-12 10:00 
